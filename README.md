@@ -25,18 +25,31 @@ Evaluate the model's performance using appropriate metrics.
 The dataset consists of the following columns representing various chemical properties and the quality score:
 
 Fixed Acidity
+
 Volatile Acidity
+
 Citric Acid
+
 Residual Sugar
+
 Chlorides
+
 Free Sulfur Dioxide
+
 Total Sulfur Dioxide
+
 Density
+
 pH
+
 Sulphates
+
 Alcohol
+
 Quality (score between 0 and 10)
+
 Installation
+
 To run the project, ensure you have Python installed along with libraries for data manipulation, visualization, and machine learning.
 
 ## Usage
